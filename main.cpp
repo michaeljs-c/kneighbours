@@ -1,4 +1,4 @@
-#include "knn.h"
+#include "src/knn.h"
 
 
 int main() {
